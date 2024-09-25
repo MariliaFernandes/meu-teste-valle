@@ -1,4 +1,16 @@
 # Event Management App
+ Back-End:
+Implementação de uma API RESTful em Node.js.
+Autenticação de usuários utilizando JWT (somente login e registro).
+CRUD básico de eventos (criação, leitura e listagem de eventos).
+Armazenamento de dados em  MySQL.
+Documentação dos endpoints básicos usando Postman.
+2. Front-End:
+Uma interface web básica utilizando React/React-native e tailwind
+Tela de login/registro conectada ao back-end.
+Tela de dashboard para visualização de eventos.
+Formulário para criação de eventos, consumindo a API do back-end.
+Interface adaptada para desktop e dispositivos móveis.
 
 ## Como Rodar o Projeto Localmente
 
